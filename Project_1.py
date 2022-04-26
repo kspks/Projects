@@ -3,7 +3,7 @@
 # In this project, I was use my knowledge of Python loops to iterate through and analyze medical insurance cost data.
 
 # The names of fiveteen individuals.
-names = ["Judith", "Abel", "Tyson", "Martha", "Beverley", "David", "Anabel", "Liam", "Noah", "Emma", "Olivia", "  Oliver", "Ava", " Charlotte", " Elijah"]
+names = ["Judith", "Abel", "Tyson", "Martha", "Beverley", "David", "Anabel", "Liam", "Noah", "Emma", "Olivia", "Oliver", "Ava", " Charlotte", " Elijah"]
 # Estimated medical insurance costs for the individuals.
 estimated_insurance_costs = [4321.0, 6440.0, 5599.0, 2193.0, 5773.0, 7694.0, 3797.0, 3662.0, 2402.0, 4535.0, 3154.0, 3122.0, 4801.0, 4758.0, 4488.0]
 # The actual insurance costs paid by the individuals.
